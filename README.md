@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi! I am pg
 
-<!--
-**0x7067dot/0x7067dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently focused on building practical systems in **Full Stack Development** while gradually moving toward the **Web3 ecosystem**.
 
-Here are some ideas to get you started:
+Right now, the goal is to deeply understand how modern web applications are built — frontend architecture, backend systems, APIs, authentication, deployment workflows, and scalable engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prefer learning by building real projects instead of only consuming tutorials.
+
+---
+
+## Tech Stack
+
+| Category           | Tools / Technologies             |
+| ------------------ | -------------------------------- |
+| Languages          | Python, HTML, CSS, JavaScript    |
+| Frontend           | ReactJS                          |
+| Currently Learning | Full Stack Development           |
+| Next In Line       | NextJS                           |
+| Interests          | Web3, Open Source, System Design |
+| Developer Tools    | Git, GitHub, VSCode              |
+| Environment        | Git Bash, Linux tooling basics   |
+
+---
+
+## Projects
+
+| Project                 | Description                                                  | Status  |
+| ----------------------- | ------------------------------------------------------------ | ------- |
+| - | - | - |
+| - | - | - |
+| - | - | - |
+| - | - | - |
+
+---
+
+## Current Focus
+
+* Building consistently
+* Strengthening JavaScript fundamentals
+* Learning ReactJS deeply
+* Understanding real-world developer workflows
+* Exploring open source contribution workflows
+* Preparing for Web3 development
+
+---
+
+## Open Source
+
+Currently exploring:
+
+* beginner-friendly repositories
+* contribution workflows
+* documentation improvements
+* developer tooling ecosystems
+
+Future goal:
+
+> Contribute meaningfully to Web3 and developer infrastructure projects.
+
+---
+
+## Philosophy
+
+```txt
+Build.
+Break.
+Learn.
+Repeat.
+```
+
+---
+
+## GitHub Stats
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x7067dot&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+```
+
+Achieving State of the art! ❤️
